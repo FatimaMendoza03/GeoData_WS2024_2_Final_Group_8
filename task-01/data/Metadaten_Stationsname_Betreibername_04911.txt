@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4911;Straubing;18830101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  4911;Wetterdienst;18830101;19521110
+  4911;DWD;19521111;19750630
+  4911;GeoInfoDBw;19750701;19940430
+  4911;DWD;19940501;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

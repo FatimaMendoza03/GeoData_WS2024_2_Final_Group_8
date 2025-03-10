@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3307;Mittenwald;;;;;18870101;18870228;Gerätetyp unbekannt;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.26;47.45;919;.8;18870301;18921115;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.26;47.44;911.8;1.1;18921116;19030527;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.26;47.44;911.8;1.7;19030528;19171107;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.27;47.45;913.4;1.8;19171108;19191022;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.26;47.44;915.7;1.8;19191023;19260920;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.26;47.44;915.7;1.2;19260921;19520331;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.27;47.44;914;1.6;19520401;19900630;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.27;47.45;920;1;19900701;19941130;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald;11.27;47.44;920;1;19941201;20080331;Hellmann;Niederschlagsmenge, konv.;eor;
+3307;Mittenwald-Buckelwiesen;11.27;47.48;983.5;2;20080401;20191014;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3307;Mittenwald-Buckelwiesen;11.27;47.48;983.5;2;20191015;20230102;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

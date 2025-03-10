@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1103;Ebersberg;11.95;48.08;573;2.2;19780101;19890930;Maximumthermometer;Temperaturmessung, konv.;eor;
+1103;Ebersberg;11.95;48.08;570;2.2;19900101;19930531;Maximumthermometer;Temperaturmessung, konv.;eor;
+1103;Ebersberg;11.96;48.08;572;2.2;19930601;20060630;Maximumthermometer;Temperaturmessung, konv.;eor;
+1103;Ebersberg-Halbing;11.99;48.1;591.5;2;20061001;20120511;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1103;Ebersberg-Halbing;11.99;48.1;591.5;2;20120519;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

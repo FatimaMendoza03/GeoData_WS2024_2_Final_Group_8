@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3621;Reimlingen;JA_RR;01.01.1920;31.12.1940;21;;eor;                                                                                                                                                    
+3621;Reimlingen;JA_RR;01.01.1945;31.12.1946;2;Kriegsjahre;eor;                                                                                                                                          
+3621;Reimlingen;JA_TT;01.01.1910;31.12.1910;1;;eor;                                                                                                                                                     
+3621;Reimlingen;JA_TT;01.01.1915;31.12.1918;4;;eor;                                                                                                                                                     
+3621;Reimlingen;JA_TX;01.01.1915;31.12.1918;4;;eor;                                                                                                                                                     
+3621;Reimlingen;JA_TN;01.01.1915;31.12.1918;4;;eor;                                                                                                                                                     
+3621;Reimlingen;JA_MX_RS;01.01.1945;31.12.1946;2;Kriegsjahre;eor;                                                                                                                                       
+3621;Reimlingen;JA_SD_S;01.01.1949;31.12.1950;2;;eor;                                                                                                                                                   
+3621;Reimlingen;JA_SD_S;01.01.1987;31.12.1987;1;;eor;                                                                                                                                                   
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

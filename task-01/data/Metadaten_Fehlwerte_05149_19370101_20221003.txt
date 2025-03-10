@@ -1,0 +1,20 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5149;Gollhofen;JA_RR;01.01.1945;31.12.1945;1;Kriegsjahre;eor;                                                                                                                                           
+5149;Gollhofen;JA_RR;01.01.1991;31.12.2004;14;Station aufgeloest;eor;                                                                                                                                   
+5149;Gollhofen;JA_RR;01.01.2014;31.12.2014;1;;eor;                                                                                                                                                      
+5149;Gollhofen;JA_FK;01.01.1989;31.12.2004;16;Station aufgeloest;eor;                                                                                                                                   
+5149;Gollhofen;JA_TT;01.01.1939;31.12.1951;13;;eor;                                                                                                                                                     
+5149;Gollhofen;JA_TT;01.01.1991;31.12.2004;14;Station aufgeloest;eor;                                                                                                                                   
+5149;Gollhofen;JA_TX;01.01.1939;31.12.1951;13;;eor;                                                                                                                                                     
+5149;Gollhofen;JA_TX;01.01.1991;31.12.2004;14;Station aufgeloest;eor;                                                                                                                                   
+5149;Gollhofen;JA_TN;01.01.1939;31.12.1951;13;;eor;                                                                                                                                                     
+5149;Gollhofen;JA_TN;01.01.1991;31.12.2004;14;Station aufgeloest;eor;                                                                                                                                   
+5149;Gollhofen;JA_N;01.01.1989;31.12.2004;16;Station aufgeloest;eor;                                                                                                                                    
+5149;Gollhofen;JA_MX_TX;01.01.1991;31.12.2004;13;Station aufgeloest;eor;                                                                                                                                
+5149;Gollhofen;JA_MX_TN;01.01.1991;31.12.2004;13;Station aufgeloest;eor;                                                                                                                                
+5149;Gollhofen;JA_MX_RS;01.01.1900;31.12.1900;1;;eor;                                                                                                                                                   
+5149;Gollhofen;JA_MX_RS;01.01.1914;31.12.1914;1;;eor;                                                                                                                                                   
+5149;Gollhofen;JA_MX_RS;01.01.1945;31.12.1945;1;Kriegsjahre;eor;                                                                                                                                        
+5149;Gollhofen;JA_MX_RS;01.01.1991;31.12.2004;13;Station aufgeloest;eor;                                                                                                                                
+5149;Gollhofen;JA_MX_RS;01.01.2014;31.12.2014;1;;eor;                                                                                                                                                   
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

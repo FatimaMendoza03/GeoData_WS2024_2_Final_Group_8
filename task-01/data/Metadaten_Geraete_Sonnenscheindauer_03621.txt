@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3621;Nördlingen;10.5;48.84;436;75;19480101;19590720;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3621;Nördlingen;10.5;48.84;436;1.6;19590721;19591124;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3621;Nördlingen;10.49;48.84;440;1.6;19591125;19640731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3621;Nördlingen;10.48;48.85;446;1.6;19640801;19681215;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3621;Nördlingen;10.5;48.86;425;1.7;19681216;19770630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3621;Nördlingen;10.5;48.86;425;1.7;19770701;19890731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

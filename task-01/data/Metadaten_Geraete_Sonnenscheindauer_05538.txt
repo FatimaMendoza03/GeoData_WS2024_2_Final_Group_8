@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5538;Wielenbach (Demollstr.);11.16;47.88;545;2;20000101;20041231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5538;Wielenbach (Demollstr.);11.16;47.88;551;6;20050101;20161107;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5538;Wielenbach (Demollstr.);11.16;47.88;551;6;20190822;20210622;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5538;Wielenbach (Demollstr.);11.16;47.88;551;6;20210623;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

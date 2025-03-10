@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2600;Kitzingen;18970201;19980228
+  2600;Kitzingen;19980701;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2600;Wetterdienst;18970201;19521110
+  2600;DWD;19521111;19980228
+  2600;DWD;19980701;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

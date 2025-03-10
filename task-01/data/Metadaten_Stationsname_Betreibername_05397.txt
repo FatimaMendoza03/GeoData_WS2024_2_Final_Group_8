@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5397;Weiden;18790101;18951231
+  5397;Weiden;19140218;19241231
+  5397;Weiden;19460626;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  5397;Wetterdienst;18790101;18951231
+  5397;Wetterdienst;19140218;19241231
+  5397;Wetterdienst;19460626;19521110
+  5397;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

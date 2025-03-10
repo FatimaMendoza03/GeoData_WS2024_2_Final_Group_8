@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2680;Königshofen im Grabfeld;19021101;19740913
+  2680;Königshofen, Bad;19740914;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2680;Wetterdienst;19021101;19521110
+  2680;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

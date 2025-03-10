@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2700;Kösching;;;;;19470101;19601130;Gerätetyp unbekannt;Temperatur/Feuchtemessung, konv.;eor;
+2700;Kösching;11.49;48.83;415;2;19601201;19690630;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2700;Kösching;11.49;48.83;417;2;19690701;20041130;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2700;Kösching;11.49;48.83;416;2;20041201;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1357;  662.00; 49.9989; 11.8478;19360101;19481205;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  677.00; 50.0008; 11.8519;19481206;19500930;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  720.00; 50.0026; 11.8575;19501001;19510331;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  686.00; 50.0006; 11.8546;19510401;19660211;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  715.00; 50.0041; 11.8565;19660305;19680630;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  705.00; 50.0018; 11.8570;19680701;19900808;Fichtelberg/Oberfranken-Hüttstadl
+  1357;  654.50; 49.9807; 11.8376;19900809;        ;Fichtelberg/Oberfranken-Hüttstadl

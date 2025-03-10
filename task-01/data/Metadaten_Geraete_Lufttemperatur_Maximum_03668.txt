@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3668;Nürnberg;;;;;18790101;19330831;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+3668;Nürnberg;11.09;49.48;314.8;2;19330901;19430810;Maximumthermometer;Temperaturmessung, konv.;eor;
+3668;Nürnberg;11.09;49.48;314.8;2.2;19430811;19450418;Maximumthermometer;Temperaturmessung, konv.;eor;
+3668;Nürnberg;11.08;49.49;310.4;2.2;19550407;19950803;Maximumthermometer;Temperaturmessung, konv.;eor;
+3668;Nürnberg;11.05;49.5;314;2;19951205;20050607;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3668;Nürnberg;11.06;49.5;314;2;20050608;20130724;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;2;20130725;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

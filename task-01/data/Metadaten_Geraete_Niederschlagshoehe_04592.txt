@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4592;Schwandorf;12.1;49.32;358;1;19400101;19441231;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.1;49.32;358;1;19460101;19551018;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.1;49.32;357;1.7;19551019;19671231;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Ettmannsdorf;12.09;49.33;355;1;19700101;19710630;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.08;49.3;353;1;19710701;19721130;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.11;49.33;372;1;19721201;19991130;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.09;49.33;356;1;19991201;20051130;Hellmann;Niederschlagsmenge, konv.;eor;
+4592;Schwandorf;12.09;49.33;356;1;20051201;20200420;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;1;20200421;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

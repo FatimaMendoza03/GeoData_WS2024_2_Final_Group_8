@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5397;Weiden;12.17;49.68;399;1.4;18790101;18951231;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.16;49.67;400;1.4;19140218;19241231;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.15;49.68;420;5;19460626;19470516;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.17;49.68;393.2;1;19470517;19500321;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.18;49.68;396.4;1;19500322;19540729;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.18;49.68;396.4;1;19540730;19600630;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.18;49.67;437.5;1;19600701;19910703;Hellmann;Niederschlagsmenge, konv.;eor;
+5397;Weiden;12.18;49.67;437.5;1.1;19910704;19910731;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+5397;Weiden;12.18;49.67;437.5;1.1;19910801;20060628;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;1;20060629;20170928;PLUVIO;Niederschlagsmenge, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;1;20170929;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

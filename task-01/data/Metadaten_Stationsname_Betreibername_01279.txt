@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1279;Erlangen;18760101;19081231
+  1279;Erlangen;19100101;20060630
+  1279;Möhrendorf-Kleinseebach;20060701;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1279;Wetterdienst;18760101;19081231
+  1279;Wetterdienst;19100101;19521110
+  1279;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

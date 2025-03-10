@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2750;Kronach;11.33;50.24;305;2.2;19490101;19520505;Maximumthermometer;Temperaturmessung, konv.;eor;
+2750;Kronach;11.33;50.24;305;2.2;19520506;19620925;Maximumthermometer;Temperaturmessung, konv.;eor;
+2750;Kronach;11.33;50.24;305;2.2;19620926;19660905;Maximumthermometer;Temperaturmessung, konv.;eor;
+2750;Kronach;11.33;50.24;305;2.2;19660906;19911126;Maximumthermometer;Temperaturmessung, konv.;eor;
+2750;Kronach;11.33;50.23;306;2.2;19911127;20051031;Maximumthermometer;Temperaturmessung, konv.;eor;
+2750;Kronach;11.32;50.25;310;2;20051101;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

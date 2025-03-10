@@ -1,0 +1,21 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1332;Falkenberg;12.73;48.46;490;1.3;19370101;19430721;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg;12.73;48.46;500;1.3;19430722;19440930;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg;12.73;48.46;486;1.3;19441001;19450429;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg;12.73;48.46;486;1.3;19450811;19471231;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;486;1.3;19480101;19500630;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;496;1.5;19500701;19501130;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;486;1.5;19501201;19510430;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;486;1.5;19510501;19620930;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;475;1.4;19621001;19640109;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;480;1.4;19640110;19660331;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;490;1.2;19660620;19671231;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg,Kr. Eggenfelden;12.73;48.46;490;1.2;19680101;19751231;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.73;48.46;490;1.2;19760101;19811103;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.73;48.46;490;1.2;19811104;19981031;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;472;1;19990419;20050228;Hellmann;Niederschlagsmenge, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;471;1;20050301;20190723;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;471;1;20190724;20201012;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;471;1;20201015;20210826;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;471;1;20210830;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

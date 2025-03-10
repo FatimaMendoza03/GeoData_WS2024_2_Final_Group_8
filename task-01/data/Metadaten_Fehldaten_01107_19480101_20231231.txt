@@ -1,0 +1,15 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1107;Ebrach;JA_RR;01.01.1948;31.12.2023;2;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1107;Ebrach;JA_TT;01.01.1948;31.12.2023;1;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1107;Ebrach;JA_MX_RS;01.01.1948;31.12.2023;2;Gesamt_Messzeitraum;eor;                                                                                                                                   
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1107;Ebrach;JA_RR;01.01.2014;31.12.2014;1;;eor;                                                                                                                                                         
+1107;Ebrach;JA_RR;01.01.2018;31.12.2018;1;;eor;                                                                                                                                                         
+1107;Ebrach;JA_TT;01.01.2018;31.12.2018;1;;eor;                                                                                                                                                         
+1107;Ebrach;JA_MX_TX;01.01.2024;31.12.2024;1;;eor;                                                                                                                                                      
+1107;Ebrach;JA_MX_TN;01.01.2024;31.12.2024;1;;eor;                                                                                                                                                      
+1107;Ebrach;JA_MX_RS;01.01.1930;31.12.1930;1;;eor;                                                                                                                                                      
+1107;Ebrach;JA_MX_RS;01.01.2014;31.12.2014;1;;eor;                                                                                                                                                      
+1107;Ebrach;JA_MX_RS;01.01.2018;31.12.2018;1;;eor;                                                                                                                                                      
+1107;Ebrach;JA_MX_RS;01.01.2024;31.12.2024;1;;eor;                                                                                                                                                      
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

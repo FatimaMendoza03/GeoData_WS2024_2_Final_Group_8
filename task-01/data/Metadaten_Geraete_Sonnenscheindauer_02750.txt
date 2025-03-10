@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2750;Kronach;11.32;50.25;310;6;20060101;20140111;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2750;Kronach;11.32;50.25;310;6;20140123;20180813;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2750;Kronach;11.32;50.25;310;6;20180814;20190711;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+2750;Kronach;11.32;50.25;310;6;20190717;20210526;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+2750;Kronach;11.32;50.25;310;6;20210607;20240328;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

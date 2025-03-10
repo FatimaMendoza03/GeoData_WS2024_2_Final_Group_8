@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1279;Erlangen;11.01;49.6;280;1.5;19490101;19550608;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1279;Erlangen;11.02;49.58;280;1.5;19550609;19581202;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1279;Erlangen;11;49.61;270;1.5;19581203;19791004;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1279;Erlangen;11;49.62;270;1.5;19791005;20060630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1279;Möhrendorf-Kleinseebach;11.01;49.65;267.5;6;20060701;20180514;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1279;Möhrendorf-Kleinseebach;11.01;49.65;267.5;6;20191108;20200316;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+1279;Möhrendorf-Kleinseebach;11.01;49.65;267.5;6;20200320;20240328;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

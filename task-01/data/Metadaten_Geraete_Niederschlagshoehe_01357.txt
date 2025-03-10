@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1357;Fichtelberg/Oberfranken;11.85;50;662;1;19360101;19461031;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.85;50;662;1.6;19461101;19470531;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.85;50;662;1.5;19470601;19481205;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.85;50;677;1.5;19481206;19500930;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.86;50;720;1.5;19501001;19510331;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.85;50;686;1.5;19510401;19660304;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.86;50;715;1.5;19660305;19680630;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken;11.86;50;705;1;19680701;19900430;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1;19900809;20030723;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1.5;20030724;20050228;Hellmann;Niederschlagsmenge, konv.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1.5;20050301;20111021;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1.5;20111109;20190612;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1.5;20190613;20191004;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+1357;Fichtelberg/Oberfranken-Hüttstadl;11.84;49.98;654.5;1.5;20191007;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

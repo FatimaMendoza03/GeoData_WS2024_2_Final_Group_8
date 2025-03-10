@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2597;Kissingen, Bad;10.09;50.2;262;1.25;20020129;20041220;Ceilometer LD 40;Wolkenhöhenmessung, elektr.;eor;
+2597;Kissingen, Bad;10.08;50.22;281.8;1.25;20041221;20060620;Ceilometer LD 40;Wolkenhöhenmessung, elektr.;eor;
+2597;Kissingen, Bad;10.08;50.22;281.73;1.25;20060621;20180814;Ceilometer LD 40;Wolkenhöhenmessung, elektr.;eor;
+2597;Kissingen, Bad;10.08;50.22;281.73;1.55;20180815;20240328;Wolkenhöhenmessgerät CHM 15k "NIMBUS";Wolkenhöhenmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

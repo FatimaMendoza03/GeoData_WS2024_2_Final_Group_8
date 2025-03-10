@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1279;Erlangen;11.01;49.6;281;1.1;18810101;19081231;Maximumthermometer;Temperaturmessung, konv.;eor;
+1279;Erlangen;11.01;49.6;280;1.8;19100101;19550608;Maximumthermometer;Temperaturmessung, konv.;eor;
+1279;Erlangen;11.02;49.58;280;2.3;19550609;19581202;Maximumthermometer;Temperaturmessung, konv.;eor;
+1279;Erlangen;11;49.61;270;2.2;19581203;19791004;Maximumthermometer;Temperaturmessung, konv.;eor;
+1279;Erlangen;11;49.62;270;2.2;19791005;20060630;Maximumthermometer;Temperaturmessung, konv.;eor;
+1279;Möhrendorf-Kleinseebach;11.01;49.65;267.5;2;20060701;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

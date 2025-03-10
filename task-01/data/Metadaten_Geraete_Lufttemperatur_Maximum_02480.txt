@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2480;Kahl am Main;9.01;50.07;108;2.3;18960101;19001008;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl am Main;9.01;50.07;108;6.1;19001009;19230531;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Dettingen;8.99;50.06;109;9.9;19251101;19360724;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Dettingen;8.99;50.06;109;2.2;19360725;19450228;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl am Main;9.01;50.07;110;2.2;19461001;19680416;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl am Main;9;50.06;110;2.2;19680417;19700424;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl am Main;9;50.06;110;2.2;19700425;19700831;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl am Main;8.99;50.06;110;2.2;19700901;19880731;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl/Main;9;50.07;107;2.2;19881001;20040831;Maximumthermometer;Temperaturmessung, konv.;eor;
+2480;Kahl/Main;8.99;50.06;107.5;2;20040901;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

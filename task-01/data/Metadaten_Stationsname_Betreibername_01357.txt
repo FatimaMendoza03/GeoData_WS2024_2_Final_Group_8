@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1357;Fichtelberg/Oberfranken;19360101;19660211
+  1357;Fichtelberg/Oberfranken;19660305;19900808
+  1357;Fichtelberg/Oberfranken-Hüttstadl;19900809;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1357;Wetterdienst;19360101;19521110
+  1357;DWD;19521111;19660211
+  1357;DWD;19660305;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

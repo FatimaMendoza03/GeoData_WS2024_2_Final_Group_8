@@ -1,0 +1,19 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2750;Kronach;JA_FK;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_FK;01.01.1987;31.12.1987;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_FK;01.01.1994;31.12.1994;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_TT;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_TX;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_TX;01.01.1969;31.12.1969;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_TN;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                        
+2750;Kronach;JA_N;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                         
+2750;Kronach;JA_N;01.01.1987;31.12.1987;1;;eor;                                                                                                                                                         
+2750;Kronach;JA_N;01.01.1994;31.12.1994;1;;eor;                                                                                                                                                         
+2750;Kronach;JA_MX_TX;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                     
+2750;Kronach;JA_MX_TX;01.01.1969;31.12.1969;1;;eor;                                                                                                                                                     
+2750;Kronach;JA_MX_TN;01.01.1950;31.12.1950;1;;eor;                                                                                                                                                     
+2750;Kronach;JA_MX_RS;01.01.1896;31.12.1897;1;;eor;                                                                                                                                                     
+2750;Kronach;JA_MX_RS;01.01.1908;31.12.1908;1;;eor;                                                                                                                                                     
+2750;Kronach;JA_MX_RS;01.01.1945;31.12.1946;2;Kriegsjahre;eor;                                                                                                                                          
+2750;Kronach;JA_SD_S;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                      
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

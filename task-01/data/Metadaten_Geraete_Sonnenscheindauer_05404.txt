@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5404;Weihenstephan;11.73;48.4;475;1;19370101;19580831;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan;11.73;48.4;467;1.5;19580901;19590331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan;11.73;48.4;467;8;19590401;19640731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan;11.72;48.4;469;2;19640801;19670531;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan;11.72;48.4;467;2;19670601;19870131;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan;11.7;48.4;470;2;19870201;20081109;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan-Dürnast;11.7;48.4;470;2;20081110;20081116;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20081117;20180311;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20180312;20190920;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20190927;20210929;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2.16;20210930;20211016;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2.16;20211026;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

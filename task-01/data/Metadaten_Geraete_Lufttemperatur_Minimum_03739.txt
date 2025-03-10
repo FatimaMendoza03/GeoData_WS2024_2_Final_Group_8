@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3739;Oberviechtach;12.44;49.46;566;2;19490101;19490624;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.43;49.46;510;2;19490625;19680930;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.43;49.46;510;2;19681001;19710208;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.42;49.45;505;2;19710209;19750430;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.41;49.45;503;2;19750501;19751113;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.42;49.46;498;2;19751114;19940430;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.44;49.45;595;2.2;19940501;20050228;Minimumthermometer;Temperaturmessung, konv.;eor;
+3739;Oberviechtach;12.44;49.45;596;2;20050301;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

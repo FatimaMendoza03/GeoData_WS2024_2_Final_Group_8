@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+867;Coburg;10.95;50.27;336;24.6;19550101;19650726;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+867;Coburg;10.95;50.26;337;20.4;19650727;19920212;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+867;Coburg;10.98;50.28;322;2;19920213;20041215;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+867;Lautertal-Oberlauter;10.97;50.31;343.79;2;20041216;20061207;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+867;Lautertal-Oberlauter;10.97;50.31;343.79;2;20061208;20170721;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+867;Lautertal-Oberlauter;10.97;50.31;343.79;2.18;20170804;20210407;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+867;Lautertal-Oberlauter;10.97;50.31;343.79;1.75;20210408;20211109;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+867;Lautertal-Oberlauter;10.97;50.31;343.79;;20211110;20240328;Pyranometer CMP22 (+Sonne);Sonnenscheind/Strahlungs-/Sonnenscheinmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

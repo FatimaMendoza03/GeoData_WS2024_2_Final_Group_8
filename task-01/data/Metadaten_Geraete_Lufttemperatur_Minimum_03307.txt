@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3307;Mittenwald;11.26;47.45;919;2;18900101;18921115;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.26;47.44;911.8;2.1;18921116;19030527;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.26;47.44;911.8;2;19030528;19171107;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.27;47.45;913.4;2.5;19171108;19191022;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.26;47.44;915.7;2.5;19191023;19260920;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.26;47.44;915.7;1.9;19260921;19520331;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.27;47.44;914;2.2;19520401;19900630;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.27;47.45;920;2.2;19900701;19941130;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald;11.27;47.44;920;2.2;19941201;20080331;Minimumthermometer;Temperaturmessung, konv.;eor;
+3307;Mittenwald-Buckelwiesen;11.27;47.48;983.5;2;20080401;20230102;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

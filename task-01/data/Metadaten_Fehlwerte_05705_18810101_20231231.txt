@@ -1,0 +1,13 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5705;Würzburg;JA_FK;01.01.2019;31.12.2019;1;;eor;                                                                                                                                                       
+5705;Würzburg;JA_TX;01.01.1947;31.12.1947;1;;eor;                                                                                                                                                       
+5705;Würzburg;JA_N;01.01.2017;31.12.2019;3;;eor;                                                                                                                                                        
+5705;Würzburg;JA_MX_FX;01.01.1992;31.12.1992;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.1998;31.12.1998;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.2012;31.12.2012;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.2013;31.12.2013;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.2019;31.12.2019;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_MX_FX;01.01.2023;31.12.2023;1;;eor;                                                                                                                                                    
+5705;Würzburg;JA_SD_S;01.01.2020;31.12.2020;1;;eor;                                                                                                                                                     
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

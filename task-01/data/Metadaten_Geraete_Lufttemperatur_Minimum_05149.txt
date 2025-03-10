@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5149;Uffenheim;10.24;49.54;339;2.2;19370101;19390731;Minimumthermometer;Temperaturmessung, konv.;eor;
+5149;Uffenheim;10.24;49.54;339;2.2;19510201;19550627;Minimumthermometer;Temperaturmessung, konv.;eor;
+5149;Uffenheim;10.24;49.54;339;2.2;19550628;19781031;Minimumthermometer;Temperaturmessung, konv.;eor;
+5149;Uffenheim;10.23;49.54;337;2;19781101;19800831;Minimumthermometer;Temperaturmessung, konv.;eor;
+5149;Uffenheim;10.23;49.54;340;2.2;19800901;19911031;Minimumthermometer;Temperaturmessung, konv.;eor;
+5149;Gollhofen;10.19;49.57;306;2;20050101;20221004;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

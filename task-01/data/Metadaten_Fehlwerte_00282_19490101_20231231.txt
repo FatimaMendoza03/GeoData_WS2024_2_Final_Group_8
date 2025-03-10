@@ -1,0 +1,25 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+282;Bamberg;JA_FK;01.01.1996;31.12.1996;1;;eor;                                                                                                                                                         
+282;Bamberg;JA_FK;01.01.2001;31.12.2002;2;;eor;                                                                                                                                                         
+282;Bamberg;JA_FK;01.01.2010;31.12.2010;1;;eor;                                                                                                                                                         
+282;Bamberg;JA_FK;01.01.2013;31.12.2013;1;;eor;                                                                                                                                                         
+282;Bamberg;JA_FK;01.01.2015;31.12.2015;1;;eor;                                                                                                                                                         
+282;Bamberg;JA_FK;01.01.2017;31.12.2018;2;;eor;                                                                                                                                                         
+282;Bamberg;JA_N;01.01.2001;31.12.2004;4;;eor;                                                                                                                                                          
+282;Bamberg;JA_N;01.01.2008;31.12.2008;1;;eor;                                                                                                                                                          
+282;Bamberg;JA_N;01.01.2010;31.12.2015;6;;eor;                                                                                                                                                          
+282;Bamberg;JA_N;01.01.2017;31.12.2018;2;;eor;                                                                                                                                                          
+282;Bamberg;JA_MX_FX;01.01.1990;31.12.1990;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.1995;31.12.1995;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.1996;31.12.1996;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2001;31.12.2001;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2010;31.12.2010;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2012;31.12.2012;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2017;31.12.2017;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2018;31.12.2018;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2020;31.12.2020;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2022;31.12.2022;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_FX;01.01.2023;31.12.2023;1;;eor;                                                                                                                                                      
+282;Bamberg;JA_MX_RS;01.01.2023;31.12.2023;1;;eor;                                                                                                                                                      
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

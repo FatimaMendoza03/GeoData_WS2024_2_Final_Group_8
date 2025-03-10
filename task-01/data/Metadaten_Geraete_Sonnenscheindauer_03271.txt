@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3271;Metten;12.92;48.85;313;14.4;19410101;20041031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3271;Metten;12.92;48.85;314;17.8;20041101;20120406;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3271;Metten;12.92;48.85;314;17.8;20131219;20150404;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

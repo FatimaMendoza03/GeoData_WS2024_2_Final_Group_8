@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2597;Kissingen, Bad;18790101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2597;Wetterdienst;18790101;19521110
+  2597;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

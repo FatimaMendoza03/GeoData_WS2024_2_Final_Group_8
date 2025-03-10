@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3244;Memmingen;10.18;47.98;599;1.4;18790101;18891231;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.18;47.98;600;1.5;19030101;19380731;Hellmann;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.23;47.99;634;1;19380801;19450331;Hellmann;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.22;47.99;634;1;19501201;19510930;Hellmann;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.19;47.99;595;1;19511001;20000131;Hellmann;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.14;47.98;610;1;20000201;20090731;Hellmann;Niederschlagsmenge, konv.;eor;
+3244;Memmingen;10.14;47.98;614;1.5;20090801;20181030;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3244;Memmingen;10.14;47.98;614;1.5;20181031;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

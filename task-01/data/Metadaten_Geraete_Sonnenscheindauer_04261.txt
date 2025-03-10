@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4261;Rosenheim;12.11;47.86;447;1.5;19510101;19540331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.11;47.85;449;1.5;19540401;19600526;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.11;47.85;449;8.25;19600527;19600630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.11;47.87;446;8.25;19600701;19690819;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.11;47.87;446;25;19690820;19870831;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.13;47.88;444;1.7;19870917;20020428;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.13;47.88;444;1.7;20020429;20060228;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20060301;20120613;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20120618;20130805;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20130812;20141218;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20141229;20180910;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20171206;20210815;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4261;Rosenheim;12.13;47.88;442;6;20210823;20240328;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

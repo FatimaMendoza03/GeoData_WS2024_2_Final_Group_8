@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2750;Kronach;18941001;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2750;Wetterdienst;18941001;19521110
+  2750;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2261;Hof;19391201;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2261;Wetterdienst;19391201;19521110
+  2261;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

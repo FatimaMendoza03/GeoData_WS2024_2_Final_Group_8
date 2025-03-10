@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3668;Nürnberg;;;;;18790101;19330831;Gerätetyp unbekannt;Niederschlagsmenge, konv.;eor;
+3668;Nürnberg;11.09;49.48;314.8;1.2;19330901;19450418;Hellmann;Niederschlagsmenge, konv.;eor;
+3668;Nürnberg;11.08;49.49;310.4;1;19550407;19950803;Hellmann;Niederschlagsmenge, konv.;eor;
+3668;Nürnberg;11.08;49.49;310.4;1;19950607;19951204;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+3668;Nürnberg;11.05;49.5;314;1;19951205;20050607;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+3668;Nürnberg;11.06;49.5;314;1;20050608;20081125;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+3668;Nürnberg;11.06;49.5;314;1;20081126;20130724;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1;20130725;20180411;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1;20180412;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

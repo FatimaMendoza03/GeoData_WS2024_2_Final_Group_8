@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5941;Reit im Winkl;;;;;19380101;19380731;Gerätetyp unbekannt;Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.48;47.67;679;2;19380801;19450430;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.48;47.67;679;2;19450701;19500831;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.48;47.67;672;2;19500901;19520531;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.47;47.68;700;2;19520601;19551130;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.46;47.68;708;2;19551201;19671011;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.48;47.68;695;2;19671012;19900731;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.48;47.67;675;2;19900801;19950731;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.46;47.67;690;2;19950801;20060717;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5941;Reit im Winkl;12.47;47.68;685.5;2;20070301;20200930;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+5941;Reit im Winkl;12.47;47.68;685.5;2;20201020;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

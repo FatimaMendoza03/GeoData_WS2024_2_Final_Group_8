@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1332;Falkenberg;19360609;19471231
+  1332;Falkenberg/Ndb.;19480101;19660331
+  1332;Falkenberg/Ndb.;19660616;19671231
+  1332;Falkenberg,Kr. Eggenfelden;19680101;19751231
+  1332;Falkenberg,Kr.Rottal-Inn;19760101;19981031
+  1332;Falkenberg,Kr.Rottal-Inn;19990419;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1332;Wetterdienst;19360609;19521110
+  1332;DWD;19521111;19660331
+  1332;DWD;19660616;19981031
+  1332;DWD;19990419;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

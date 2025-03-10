@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4261;Rosenheim;18790101;19070630
+  4261;Rosenheim;19490823;19870831
+  4261;Rosenheim;19870917;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  4261;Wetterdienst;18790101;19070630
+  4261;Wetterdienst;19490823;19521110
+  4261;DWD;19521111;19870831
+  4261;DWD;19870917;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,13 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1332;  490.00; 48.4623; 12.7337;19360609;19430721;Falkenberg,Kr.Rottal-Inn
+  1332;  500.00; 48.4623; 12.7330;19430722;19440930;Falkenberg,Kr.Rottal-Inn
+  1332;  486.00; 48.4626; 12.7303;19441001;19500630;Falkenberg,Kr.Rottal-Inn
+  1332;  496.00; 48.4628; 12.7341;19500701;19501130;Falkenberg,Kr.Rottal-Inn
+  1332;  486.00; 48.4623; 12.7337;19501201;19510430;Falkenberg,Kr.Rottal-Inn
+  1332;  486.00; 48.4628; 12.7335;19510501;19620930;Falkenberg,Kr.Rottal-Inn
+  1332;  475.00; 48.4608; 12.7296;19621001;19640109;Falkenberg,Kr.Rottal-Inn
+  1332;  480.00; 48.4602; 12.7278;19640110;19660331;Falkenberg,Kr.Rottal-Inn
+  1332;  490.00; 48.4618; 12.7335;19660616;19811103;Falkenberg,Kr.Rottal-Inn
+  1332;  490.00; 48.4618; 12.7334;19811104;19981031;Falkenberg,Kr.Rottal-Inn
+  1332;  472.00; 48.4832; 12.7240;19990419;20050228;Falkenberg,Kr.Rottal-Inn
+  1332;  471.00; 48.4832; 12.7241;20050301;        ;Falkenberg,Kr.Rottal-Inn

@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4592;Schwandorf;12.09;49.33;356;6;20060101;20060711;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20100302;20110330;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20140506;20190603;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20190606;20191017;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20191022;20200420;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20200421;20230210;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4592;Schwandorf;12.09;49.33;356;6;20230213;20230815;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

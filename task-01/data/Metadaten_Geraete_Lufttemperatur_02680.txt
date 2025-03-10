@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2680;Königshofen im Grabfeld;10.47;50.3;278;2.1;19480101;19660630;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen im Grabfeld;10.47;50.3;278;2.1;19660701;19740913;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.47;50.3;278;2.1;19740914;19790831;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.48;50.3;285;2;19790901;19830110;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.45;50.28;288;2;19830111;19850423;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.46;50.3;280;2;19850424;19861013;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.45;50.28;288;2;19861014;19900611;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.45;50.28;288;2;19900612;20050531;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+2680;Königshofen, Bad;10.45;50.28;288.5;2;20050601;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

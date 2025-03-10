@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5017;Teuschnitz;11.38;50.4;615;2;19480101;19520718;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz;11.38;50.4;622;2;19520719;19620921;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz;11.38;50.39;601;2;19620922;19621231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz-Wickendorf;11.38;50.38;550;2;19630501;19780829;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz-Wickendorf;11.37;50.38;558;2;19780830;19870810;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz-Wickendorf;11.37;50.38;568;2;19870811;20051031;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+5017;Teuschnitz;11.39;50.4;633;2;20051101;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

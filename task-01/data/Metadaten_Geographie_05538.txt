@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5538;  547.00; 47.8837; 11.1571;19200101;19450930;Wielenbach (Demollstr.)
+  5538;  545.00; 47.8844; 11.1576;19990201;20041231;Wielenbach (Demollstr.)
+  5538;  551.00; 47.8827; 11.1576;20050101;        ;Wielenbach (Demollstr.)

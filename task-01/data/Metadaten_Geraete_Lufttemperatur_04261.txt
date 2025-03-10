@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4261;Rosenheim;12.11;47.86;447;2;19500101;19500919;Stationsthermometer;Temperaturmessung, konv.;eor;
+4261;Rosenheim;12.11;47.86;447;2;19500920;19540331;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.11;47.85;449;2;19540401;19600630;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.11;47.87;446;2;19600701;19690819;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.11;47.87;446;2;19690820;19870831;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.13;47.88;444;2;19870917;20020428;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.13;47.88;444;2;20020429;20060228;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+4261;Rosenheim;12.13;47.88;442;2;20060301;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

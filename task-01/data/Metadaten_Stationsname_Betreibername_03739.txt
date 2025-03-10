@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3739;Oberviechtach;19480927;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  3739;Wetterdienst;19480927;19521110
+  3739;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

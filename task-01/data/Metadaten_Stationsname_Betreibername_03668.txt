@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3668;Nürnberg;18780101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  3668;Wetterdienst;18780101;19521110
+  3668;DWD;19521111;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

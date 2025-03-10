@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1332;Falkenberg;12.73;48.46;490;1.8;19370101;19370712;Stationsthermometer;Temperaturmessung, konv.;eor;
+1332;Falkenberg;12.73;48.46;490;1.8;19370713;19430721;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg;12.73;48.46;500;1.8;19430722;19440930;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg;12.73;48.46;486;1.8;19441001;19450429;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg;12.73;48.46;486;1.8;19450811;19471231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;486;1.8;19480101;19500630;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;496;1.9;19500701;19501130;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;486;1.9;19501201;19510430;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg/Ndb.;12.73;48.46;490;2;19660620;19671231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg,Kr. Eggenfelden;12.73;48.46;490;2;19680101;19751231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.73;48.46;490;2;19760101;19811103;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.73;48.46;490;2;19811104;19981031;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;472;2;19990419;20050228;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+1332;Falkenberg,Kr.Rottal-Inn;12.72;48.48;471;2;20050301;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

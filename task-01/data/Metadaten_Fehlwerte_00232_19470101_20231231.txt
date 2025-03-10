@@ -1,0 +1,23 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+232;Augsburg;JA_RR;01.01.2017;31.12.2017;1;;eor;                                                                                                                                                        
+232;Augsburg;JA_RR;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                        
+232;Augsburg;JA_FK;01.01.2012;31.12.2012;1;;eor;                                                                                                                                                        
+232;Augsburg;JA_FK;01.01.2015;31.12.2019;5;;eor;                                                                                                                                                        
+232;Augsburg;JA_FK;01.01.2021;31.12.2022;2;;eor;                                                                                                                                                        
+232;Augsburg;JA_N;01.01.2001;31.12.2001;1;;eor;                                                                                                                                                         
+232;Augsburg;JA_N;01.01.2012;31.12.2014;3;;eor;                                                                                                                                                         
+232;Augsburg;JA_MX_FX;01.01.1979;31.12.1979;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.1994;31.12.1994;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2001;31.12.2001;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2012;31.12.2012;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2016;31.12.2016;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2017;31.12.2017;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2018;31.12.2018;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2019;31.12.2019;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2022;31.12.2022;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_FX;01.01.2023;31.12.2023;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_RS;01.01.2017;31.12.2017;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_MX_RS;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                     
+232;Augsburg;JA_SD_S;01.01.1997;31.12.1998;2;;eor;                                                                                                                                                      
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

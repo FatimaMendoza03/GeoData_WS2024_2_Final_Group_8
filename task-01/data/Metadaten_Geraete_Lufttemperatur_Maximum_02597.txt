@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2597;Kissingen, Bad;10.08;50.2;199;5.6;18810101;19100930;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.2;199;4.8;19101001;19201231;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.2;199;4.9;19200101;19341231;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.2;199;6.8;19350101;19410630;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.2;198;2.2;19410701;19440908;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.2;222.6;2.3;19460101;19540630;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.21;224;2.2;19540701;19750101;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.08;50.21;224;2.2;19750102;19780423;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.09;50.2;262;2.2;19780424;19950531;Maximumthermometer;Temperaturmessung, konv.;eor;
+2597;Kissingen, Bad;10.09;50.2;262;2;19950601;20041220;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2597;Kissingen, Bad;10.08;50.22;281.8;2;20041221;20060620;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2597;Kissingen, Bad;10.08;50.22;281.73;2;20060621;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

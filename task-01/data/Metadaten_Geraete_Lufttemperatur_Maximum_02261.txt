@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2261;Hof;11.88;50.31;566;2.2;19470101;19580630;Maximumthermometer;Temperaturmessung, konv.;eor;
+2261;Hof;11.88;50.31;565.2;2.2;19580701;19980211;Maximumthermometer;Temperaturmessung, konv.;eor;
+2261;Hof;11.88;50.31;565.2;2;19980212;20080928;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.2;2;20080929;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

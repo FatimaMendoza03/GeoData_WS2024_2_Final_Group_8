@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4592;Schwandorf;12.1;49.32;357;2;19560101;19671231;Maximumthermometer;Temperaturmessung, konv.;eor;
+4592;Ettmannsdorf;12.09;49.33;355;2;19700101;19710630;Maximumthermometer;Temperaturmessung, konv.;eor;
+4592;Schwandorf;12.08;49.3;353;2;19710701;19721130;Maximumthermometer;Temperaturmessung, konv.;eor;
+4592;Schwandorf;12.11;49.33;372;2;19721201;19991130;Maximumthermometer;Temperaturmessung, konv.;eor;
+4592;Schwandorf;12.09;49.33;356;2.2;19991201;20051130;Maximumthermometer;Temperaturmessung, konv.;eor;
+4592;Schwandorf;12.09;49.33;356;2;20051201;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

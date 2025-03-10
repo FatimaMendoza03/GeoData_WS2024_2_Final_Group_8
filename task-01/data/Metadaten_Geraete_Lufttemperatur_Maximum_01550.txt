@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1550;Garmisch-Partenkirchen;;;;;18890101;18941231;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.5;697.1;5.4;18950101;18970831;Maximumthermometer, unbekannt;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.49;714.7;1.8;18970901;19060817;Maximumthermometer, unbekannt;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.49;714.7;2.1;19060818;19290430;Maximumthermometer;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.49;700;2.1;19290501;19451130;Maximumthermometer;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.49;703;2.2;19451201;19500228;Maximumthermometer;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.5;703.8;2.2;19500301;19671227;Maximumthermometer;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;2.2;19671228;19901017;Maximumthermometer;Temperaturmessung, konv.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.2;19901018;20060606;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;2;20060607;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

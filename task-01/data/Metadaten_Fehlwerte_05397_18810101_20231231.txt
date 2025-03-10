@@ -1,0 +1,24 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5397;Weiden;JA_RR;01.01.1896;31.12.1946;51;Station aufgeloest;eor;                                                                                                                                      
+5397;Weiden;JA_RR;01.01.2016;31.12.2016;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.1991;31.12.1991;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.1996;31.12.1996;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.2001;31.12.2001;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.2013;31.12.2014;2;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.2016;31.12.2016;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.2019;31.12.2019;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_FK;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                         
+5397;Weiden;JA_TX;01.01.1896;31.12.1946;51;Station aufgeloest;eor;                                                                                                                                      
+5397;Weiden;JA_TN;01.01.1896;31.12.1946;51;Station aufgeloest;eor;                                                                                                                                      
+5397;Weiden;JA_N;01.01.2013;31.12.2019;7;;eor;                                                                                                                                                          
+5397;Weiden;JA_N;01.01.2021;31.12.2021;1;;eor;                                                                                                                                                          
+5397;Weiden;JA_MX_FX;01.01.1988;31.12.1988;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.1992;31.12.1992;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.1994;31.12.1994;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.2001;31.12.2001;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.2010;31.12.2010;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.2013;31.12.2013;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.2016;31.12.2016;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_FX;01.01.2019;31.12.2019;1;;eor;                                                                                                                                                      
+5397;Weiden;JA_MX_RS;01.01.2016;31.12.2016;1;;eor;                                                                                                                                                      
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

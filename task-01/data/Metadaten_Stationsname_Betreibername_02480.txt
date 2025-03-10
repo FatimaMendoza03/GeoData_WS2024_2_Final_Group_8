@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2480;Kahl am Main;18950801;19230531
+  2480;Dettingen;19251101;19450228
+  2480;Kahl am Main;19460514;19880731
+  2480;Kahl/Main;19880920;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2480;Wetterdienst;18950801;19230531
+  2480;Wetterdienst;19251101;19450228
+  2480;Wetterdienst;19460514;19521110
+  2480;DWD;19521111;19880731
+  2480;DWD;19880920;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

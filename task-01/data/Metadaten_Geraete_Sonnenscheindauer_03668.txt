@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3668;Nürnberg;;;;;19210101;19330831;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+3668;Nürnberg;11.09;49.48;314.8;1.4;19330901;19450418;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3668;Nürnberg;11.08;49.49;310.4;13.8;19550407;19951204;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3668;Nürnberg;11.08;49.49;310.4;2;19950804;19951204;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.05;49.5;314;2;19951205;20050607;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.06;49.5;314;2;20050608;20060813;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.06;49.5;314;1.6;20060814;20130724;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1.6;20130725;20180807;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1.6;20200825;20210511;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1.6;20210520;20230321;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+3668;Nürnberg;11.05;49.5;313.81;1.6;20230329;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

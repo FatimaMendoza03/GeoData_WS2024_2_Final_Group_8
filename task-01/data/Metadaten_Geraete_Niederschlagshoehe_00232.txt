@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+232;Augsburg-Kriegshaber;10.86;48.38;477;1.1;19470101;19790531;Hellmann;Niederschlagsmenge, konv.;eor;
+232;Augsburg;10.93;48.42;461;1;19790601;19980318;Hellmann;Niederschlagsmenge, konv.;eor;
+232;Augsburg;10.93;48.42;461;1;19961110;19980318;PLUVIO;Niederschlagsmenge, elektr.;eor;
+232;Augsburg;10.94;48.43;462;1;19980319;20061214;PLUVIO;Niederschlagsmenge, elektr.;eor;
+232;Augsburg;10.94;48.43;461.53;1;20061215;20171122;PLUVIO;Niederschlagsmenge, elektr.;eor;
+232;Augsburg;10.94;48.43;461.53;1;20171123;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

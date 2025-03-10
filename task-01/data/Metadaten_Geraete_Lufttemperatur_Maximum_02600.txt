@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2600;Kitzingen;10.16;49.74;197;2;19420101;19450228;Maximumthermometer;Temperaturmessung, konv.;eor;
+2600;Kitzingen;10.19;49.73;220;2;19821101;19910331;Maximumthermometer;Temperaturmessung, konv.;eor;
+2600;Kitzingen;10.19;49.72;230;2.2;19910401;19980228;Maximumthermometer;Temperaturmessung, konv.;eor;
+2600;Kitzingen;10.18;49.74;188;2.2;19980701;20050228;Maximumthermometer;Temperaturmessung, konv.;eor;
+2600;Kitzingen;10.18;49.74;193;2;20050301;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1550;Garmisch-Partenkirchen;11.1;47.5;705;.5;18870101;18931031;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.5;697.1;1.5;18950101;18970831;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.49;714.7;1.5;18970901;19091231;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.11;47.49;714.7;1.2;19100101;19290430;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.49;700;1.2;19290501;19451130;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.49;703;1.2;19451201;19460531;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.49;703;14;19460601;19500228;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.1;47.5;703.8;1.4;19500301;19671227;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.5;19671228;19901017;Hellmann;Niederschlagsmenge, konv.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.4;19901018;20040622;Niederschlagsgeber / Ombrometer, Wippfunktion;Niederschlagsmenge, elektr.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.4;20040414;20060606;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.5;20060607;20190318;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1550;Garmisch-Partenkirchen;11.06;47.48;719.25;1.5;20190319;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

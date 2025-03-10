@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5149;Uffenheim;18941001;19911031
+  5149;Uffenheim;20030612;20041231
+  5149;Gollhofen;20050101;20221005
+  5149;Gollhofen;20221214;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  5149;Wetterdienst;18941001;19521110
+  5149;DWD;19521111;19911031
+  5149;DWD;20030612;20221005
+  5149;DWD;20221214;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

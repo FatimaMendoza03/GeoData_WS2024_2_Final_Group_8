@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2700;Kösching;;;;;19490101;19660825;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+2700;Kösching;11.49;48.83;415;1.6;19660826;19690630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2700;Kösching;11.49;48.83;417;1.6;19690701;20041130;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2700;Kösching;11.49;48.83;416;2;20041201;20120926;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2700;Kösching;11.49;48.83;416;2;20121001;20171004;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2700;Kösching;11.49;48.83;416;2;20171005;20190305;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+2700;Kösching;11.49;48.83;416;2;20190315;20200625;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+2700;Kösching;11.49;48.83;416;2;20200702;20230717;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --

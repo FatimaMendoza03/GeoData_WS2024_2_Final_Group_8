@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+151;Amberg Stadt;11.86;49.45;406;9;19630101;19691031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+151;Amberg Stadt;11.86;49.45;410;9;19691101;19840507;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+generiert: 23.05.2024 --  Deutscher Wetterdienst  --
